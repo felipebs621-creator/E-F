@@ -48,7 +48,7 @@ E quando eu vi… já era você.
 Eu não quero algo passageiro.<br>  
 Eu quero você comigo, de verdade.  
 </p>  
-<h2>Você aceita se casar comigo? 💍</h2>  
+<h2>Você aceita namorar  comigo? 💍</h2>  
 <button onclick="alert('Então agora é nós! 💛')">Sim, eu aceito</button>  
 </section>  
   
